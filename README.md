@@ -16,7 +16,7 @@ Test-Folder:
 └── requirements.txt
 
   
-To run:
+To run:                                                
   Linux: python3 ./main.py
   
   
