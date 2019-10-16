@@ -7,14 +7,11 @@ pip3 install -r requirements.txt
 Move the main.py file to be in the same folder as your hydrus instillation.
 Rename your hydrus instillation to be hydrusnetwork.
 It should look like this:
-Test-Folder:
-  
+
+Test-Folder:  
   |-hydrusnetwork:
-  
   |     L hydrus files stuffs
-  
   |-main.py
-  
   |-requirements.txt
   
 To run:
