@@ -2,6 +2,7 @@
 A python program to automatically upgrade hydrus.
 
 To-Install:
+Download to your hydrus instillation's parent folder.
 pip3 install -r requirements.txt 
 
 Move the main.py file to be in the same folder as your hydrus instillation.
