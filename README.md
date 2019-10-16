@@ -11,6 +11,7 @@ Test-Folder:
   |-hydrusnetwork:
   |     L hydrus files stuffs
   |-main.py
+  |-requirements.txt
   
 To run:
   Linux: python3 main.py
