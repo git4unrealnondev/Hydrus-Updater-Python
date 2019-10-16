@@ -9,10 +9,14 @@ Rename your hydrus instillation to be hydrusnetwork.
 It should look like this:
 
 Test-Folder:  
-..|-hydrusnetwork:
-..|     L hydrus files stuffs
-..|-main.py
-..|-requirements.txt
+l
+l-hydrusnetwork:
+l     l
+l     L hydrus files stuffs
+l
+l-main.py
+l
+l-requirements.txt
   
 To run:
   Linux: python3 main.py
