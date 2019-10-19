@@ -21,3 +21,9 @@ To run:
   
   
 Tested and works on Ubuntu 19.10
+
+If you're on linux and wxPython Fails to build than try running this command
+
+  sudo apt-get install build-essential libgtk-3-dev
+
+It occurs whenever gtk3 isn't installed in your system
