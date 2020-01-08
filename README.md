@@ -27,3 +27,7 @@ If you're on linux and wxPython Fails to build than try running this command
   sudo apt-get install build-essential libgtk-3-dev
 
 It occurs whenever gtk3 isn't installed in your system
+
+If you get an FFMPEG error than you probably dont have ffMpeg installed so run:
+
+  sudo apt-get install ffmpeg
