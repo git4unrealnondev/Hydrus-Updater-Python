@@ -23,3 +23,6 @@ mock
 httmock 
 pyinstaller
 wxPython
+pyqt5
+qtpy
+shiboken2
